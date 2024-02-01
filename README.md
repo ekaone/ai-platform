@@ -1,6 +1,6 @@
-# AI Platform with Next.js 13, React, Tailwind, Prisma, Stripe
+# AI Platform with AI Generation Conversation, Image, Video, Music, Code
 
-Features AI Generation:
+## Features AI Generation:
 
 - Conversation 
 - Image 
